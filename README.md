@@ -1,8 +1,8 @@
 <html>
 <body>
 <div align="center">
-<img src="https://imgur.com/0KdFD1s" alt="Header" width="1000">
-<img src="https://imgur.com/fm5v9TO" alt="Divider" width="1000" height="12">
+<img src="https://imgur.com/0KdFD1s" alt="Header" width="100">
+<img src="https://imgur.com/fm5v9TO" alt="Divider" width="100" height="12">
 <img src="https://imgur.com/TiY6b0a"/>
 <img src="https://imgur.com/tfK3dgY.png">
 <img src="https://imgur.com/fm5v9TO" alt="Divider" width="1000" height="12">
@@ -22,14 +22,13 @@
     </th>
   </tr>
   </table>
-  <a href="https://eveleen.atabook.org/"><img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&size=40&duration=1000&pause=&color=E9CD63&center=true&vCenter=true&repeat=false&width=260&height=55&lines=Atabook" alt="Typing SVG" /></a>
-  <img src="https://imgur.com/MZQKRfE.png" alt="Bye" width="250">
-<img src="https://imgur.com/2PDlMZT.png" alt="Divider" width="1000" height="12">
+  <img src="https://imgur.com/QPG0YSO" alt="Bye" width="250">
+<img src="https://imgur.com/fm5v9TO" alt="Divider" width="1000" height="12">
   
 $\color{E9CD63}\large{\texttt{(>ᴗ−)☆}}$ <br>
 $\color{E9CD63}\large{\texttt{this is only for ponytown!!!}}$ <br>
-<img src="https://imgur.com/2PDlMZT.png" alt="Divider" width="1000" height="12">
-<img src="https://imgur.com/TzJz5YZ.png" alt="Footer" width="1000">
+<img src="https://imgur.com/fm5v9TO" alt="Divider" width="100" height="12">
+<img src="https://imgur.com/C1a869T" alt="Footer" width="100">
 [![credit](https://imgur.com/tfK3dgY.png)](https://www.tumblr.com/coco-coquette/769451441862688768/beige-templates)
 [![credit](https://imgur.com/tfK3dgY.png)](https://www.tumblr.com/rori-is-writing/790067797212430336/dashed-dividers)
 [![credit](https://imgur.com/tfK3dgY.png)](https://oceanfront.neocities.org/graphics/mainpage)
