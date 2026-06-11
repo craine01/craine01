@@ -5,15 +5,15 @@
 <img src="https://i.imgur.com/0KdFD1s.png" alt="Header" width="9000">
 <img src="https://i.imgur.com/fm5v9TO.png" alt="Divider" width="1000" height="12">
 
-<img src="https://i.imgur.com/TiY6b0a.png"  width="30" height="20" />
+<img src="https://i.imgur.com/TiY6b0a.png"  width="30" height="35" />
 
 
 <img src="https://i.imgur.com/fm5v9TO.png" alt="Divider" width="1000" height="12">
 
 <img src="https://i.imgur.com/tyC6lCw.png" alt="Art" align="left" width="420">
 
-<img src="https://i.imgur.com/QoRsbtu.png" alt="Welcome" width="30" height="30" /><br>
-<img src="https://i.imgur.com/fZ689aX.png" width="30" height="20">
+<img src="https://i.imgur.com/QoRsbtu.png" alt="Welcome" width="30" height="45" /><br>
+<img src="https://i.imgur.com/fZ689aX.png" width="30" height="40">
 
 <table>
   <tr>
