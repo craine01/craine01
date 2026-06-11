@@ -13,13 +13,13 @@
 <table>
   <tr>
     <th>
-      $\color{c49927}\normalsize{\texttt{i spend most of my time offtab, but feel}}$ <br>
-      $\color{c49927}\normalsize{\texttt{free to interact or sit w me! i often}}$ <br>
-      $\color{c49927}\normalsize{\texttt{reply to whispers very late and arent}}$ <br>
-      $\color{c49927}\normalsize{\texttt{very good at continuing convos tho..}}$ <br>
-      $\color{c49927}\normalsize{\texttt{i promise im not ghosting you on purpose!}}$ <br>
-      $\color{c49927}\normalsize{\texttt{idc about copying, queer infighting, or}}$ <br>
-      $\color{c49927}\normalsize{\texttt{ship discourse (proship dni tho).}}$ <br>
+      $\color{c49927}\normalsize{\texttt{Holla! My name is Craine.}}$ <br>
+      $\color{c49927}\normalsize{\texttt{I spend most of my time listening to music}}$ <br>
+      $\color{c49927}\normalsize{\texttt{or doom scrolling online, I barely reply on dms.}}$ <br>
+      $\color{c49927}\normalsize{\texttt{Enjoys listening to new perspective...}}$ <br>
+      $\color{c49927}\normalsize{\texttt{I am also interested to learn programming}}$ <br>
+      $\color{c49927}\normalsize{\texttt{so I hope we can collaborate based on our niche!}}$ <br>
+      $\color{c49927}\normalsize{\texttt{Stranger, I hope you have a great day, Carpe Diem:>}}$ <br>
     </th>
   </tr>
 </table>
