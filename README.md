@@ -5,14 +5,14 @@
 <img src="https://i.imgur.com/0KdFD1s.png" alt="Header" width="800">
 <img src="https://i.imgur.com/fm5v9TO.png" alt="Divider" width="700" height="12">
 
-<img src="https://i.imgur.com/TiY6b0a.png" width="75" height="75">
+<img src="https://i.imgur.com/TiY6b0a.png">
 
 <img src="https://i.imgur.com/fm5v9TO.png" alt="Divider" width="700" height="12">
 
 <img src="https://i.imgur.com/tyC6lCw.png" alt="totoro" align="left" width="420">
 
-<img src="https://i.imgur.com/QoRsbtu.png" alt="Welcome" width="200" height="160">
-<img src="https://i.imgur.com/fZ689aX.png" width="120" height="100">
+<img src="https://i.imgur.com/QoRsbtu.png" alt="Welcome">
+<img src="https://i.imgur.com/fZ689aX.png">
 
 <br><br>
 
