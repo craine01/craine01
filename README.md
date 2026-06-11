@@ -10,9 +10,9 @@
 
 <img src="https://i.imgur.com/fm5v9TO.png" alt="Divider" width="1000" height="12">
 
-<img src="https://i.imgur.com/tyC6lCw.png" alt="Art" align="left" width="420">
+<img src="https://i.imgur.com/tyC6lCw.png"  align="left" width="420">
 
-<img src="https://i.imgur.com/QoRsbtu.png" alt="Welcome" width="100" height="80"><br>
+<img src="https://i.imgur.com/QoRsbtu.png"  width="100" height="80">
 <img src="https://i.imgur.com/fZ689aX.png" width="50" height="80">
 
 <table>
