@@ -1,21 +1,16 @@
 <html>
 <body>
 <div align="center">
-
 <img src="https://i.imgur.com/0KdFD1s.png" alt="Header" width="800">
 <img src="https://i.imgur.com/fm5v9TO.png" alt="Divider" width="700" height="12">
-
 <div align="center"><img src="https://i.imgur.com/TiY6b0a.png" width="80"></div>
-
 <img src="https://i.imgur.com/fm5v9TO.png" alt="Divider" width="700" height="12">
-
 <img src="https://i.imgur.com/tyC6lCw.png" alt="totoro" align="left" width="420">
-
-<img src="https://i.imgur.com/QoRsbtu.png" alt="Welcome" width="350">
-<img src="https://i.imgur.com/fZ689aX.png" width="210">
-
+<div align="center">
+<img src="https://i.imgur.com/QoRsbtu.png" alt="Welcome" width="350"><br>
+<img src="https://i.imgur.com/fZ689aX.png" width="80">
+</div>
 <br><br>
-
 <table>
   <tr>
     <th>
@@ -29,17 +24,12 @@
     </th>
   </tr>
 </table>
-
 <img src="https://i.imgur.com/QPG0YSO.png" alt="Bye" width="250">
-
 <img src="https://i.imgur.com/fm5v9TO.png" alt="Divider" width="700" height="12">
-
 $\color{E9CD63}\large{\texttt{(>ᴗ−)☆}}$ <br>
 $\color{E9CD63}\large{\texttt{this is only for ponytown!!!}}$ <br>
-
 <img src="https://i.imgur.com/fm5v9TO.png" alt="Divider" width="700" height="12">
 <img src="https://i.imgur.com/C1a869T.png" alt="Footer" width="800">
-
 [![credit](https://i.imgur.com/tfK3dgY.png)](https://www.tumblr.com/coco-coquette/769451441862688768/beige-templates)
 [![credit](https://i.imgur.com/tfK3dgY.png)](https://www.tumblr.com/rori-is-writing/790067797212430336/dashed-dividers)
 [![credit](https://i.imgur.com/tfK3dgY.png)](https://oceanfront.neocities.org/graphics/mainpage)
@@ -48,7 +38,6 @@ $\color{E9CD63}\large{\texttt{this is only for ponytown!!!}}$ <br>
 [![credit](https://i.imgur.com/tfK3dgY.png)](https://toyhou.se/32315427.my-tiny-pride-flags-v2)
 [![credit](https://i.imgur.com/tfK3dgY.png)](https://ca.pinterest.com/pin/59250551351586371/)
 [![credit](https://i.imgur.com/tfK3dgY.png)](https://rentry.org/lavender-lace)
-
 </div>
 </body>
 </html>
