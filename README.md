@@ -2,8 +2,8 @@
 <body>
 <div align="center">
 
-<img src="https://i.imgur.com/0KdFD1s.png" alt="Header" width="2000">
-<img src="https://i.imgur.com/fm5v9TO.png" alt="Divider" width="1000" height="12">
+<img src="https://i.imgur.com/0KdFD1s.png" alt="Header" width="1000">
+<img src="https://i.imgur.com/fm5v9TO.png" alt="Divider" width="900" height="12">
 
 <img src="https://i.imgur.com/TiY6b0a.png"  width="50" height="60">
 
@@ -36,8 +36,8 @@
 $\color{E9CD63}\large{\texttt{(>ᴗ−)☆}}$ <br>
 $\color{E9CD63}\large{\texttt{this is only for ponytown!!!}}$ <br>
 
-<img src="https://i.imgur.com/fm5v9TO.png" alt="Divider" width="1000" height="12">
-<img src="https://i.imgur.com/C1a869T.png" alt="Footer" width="2000">
+<img src="https://i.imgur.com/fm5v9TO.png" alt="Divider" width="900" height="12">
+<img src="https://i.imgur.com/C1a869T.png" alt="Footer" width="1000">
 
 [![credit](https://i.imgur.com/tfK3dgY.png)](https://www.tumblr.com/coco-coquette/769451441862688768/beige-templates)
 [![credit](https://i.imgur.com/tfK3dgY.png)](https://www.tumblr.com/rori-is-writing/790067797212430336/dashed-dividers)
