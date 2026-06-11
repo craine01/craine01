@@ -7,7 +7,7 @@
 <img src="https://i.imgur.com/fm5v9TO.png" alt="Divider" width="700" height="12">
 <img src="https://i.imgur.com/tyC6lCw.png" alt="totoro" align="left" width="420">
 <div align="center">
-<img src="https://i.imgur.com/QoRsbtu.png" alt="Welcome" width="250"><br>
+<img src="https://i.imgur.com/QoRsbtu.png" alt="Welcome" width="350"><br>
 </div>
 <br><br>
 <table>
