@@ -11,7 +11,7 @@
 
 <img src="https://i.imgur.com/tyC6lCw.png" alt="totoro" align="left" width="420">
 
-<img src="https://i.imgur.com/QoRsbtu.png" alt="Welcome" width="250">
+<img src="https://i.imgur.com/QoRsbtu.png" alt="Welcome" width="350">
 <img src="https://i.imgur.com/fZ689aX.png" width="80">
 
 <br><br>
