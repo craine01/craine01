@@ -2,11 +2,11 @@
 <body>
 <div align="center">
 
-<img src="https://i.imgur.com/0KdFD1s.png" alt="Header" width="1000">
+<img src="https://i.imgur.com/0KdFD1s.png" alt="Header" width="9000">
 <img src="https://i.imgur.com/fm5v9TO.png" alt="Divider" width="1000" height="12">
 
-<img src="https://i.imgur.com/TiY6b0a.png"/>
-<img src="https://i.imgur.com/tfK3dgY.png">
+<img src="https://i.imgur.com/TiY6b0a.png"  width="30" height="10" />
+
 
 <img src="https://i.imgur.com/fm5v9TO.png" alt="Divider" width="1000" height="12">
 
