@@ -24,9 +24,9 @@
   </tr>
 </table>
 <img src="https://i.imgur.com/QPG0YSO.png" alt="Bye" width="250">
-<img src="https://i.imgur.com/fm5v9TO.png" alt="Divider" width="700" height="12"><br>
-<div align="center"><img src="https://i.imgur.com/fZ689aX.png" width="80"></div>
 <img src="https://i.imgur.com/fm5v9TO.png" alt="Divider" width="700" height="12">
+<div align="center"><img src="https://i.imgur.com/fZ689aX.png" width="80"></div>
+<img src="https://i.imgur.com/fm5v9TO.png" alt="Divider" width="700" height="12"><br>
 <img src="https://i.imgur.com/C1a869T.png" alt="Footer" width="800">
   
 [![credit](https://i.imgur.com/tfK3dgY.png)](https://www.tumblr.com/coco-coquette/769451441862688768/beige-templates)
