@@ -2,18 +2,19 @@
 <body>
 <div align="center">
 
-<img src="https://i.imgur.com/0KdFD1s.png" alt="Header" width="1000">
-<img src="https://i.imgur.com/fm5v9TO.png" alt="Divider" width="900" height="12">
+<img src="https://i.imgur.com/0KdFD1s.png" alt="Header" width="800">
+<img src="https://i.imgur.com/fm5v9TO.png" alt="Divider" width="700" height="12">
 
-<img src="https://i.imgur.com/TiY6b0a.png"  width="50" height="60">
+<img src="https://i.imgur.com/TiY6b0a.png" width="75" height="75">
 
-
-<img src="https://i.imgur.com/fm5v9TO.png" alt="Divider" width="1000" height="12">
+<img src="https://i.imgur.com/fm5v9TO.png" alt="Divider" width="700" height="12">
 
 <img src="https://i.imgur.com/tyC6lCw.png" alt="totoro" align="left" width="420">
 
-<img src="https://i.imgur.com/QoRsbtu.png" alt="Welcome" width="100" height="80">
-<img src="https://i.imgur.com/fZ689aX.png" width="50" height="80">
+<img src="https://i.imgur.com/QoRsbtu.png" alt="Welcome" width="200" height="160">
+<img src="https://i.imgur.com/fZ689aX.png" width="120" height="100">
+
+<br><br>
 
 <table>
   <tr>
@@ -31,13 +32,13 @@
 
 <img src="https://i.imgur.com/QPG0YSO.png" alt="Bye" width="250">
 
-<img src="https://i.imgur.com/fm5v9TO.png" alt="Divider" width="1000" height="12">
+<img src="https://i.imgur.com/fm5v9TO.png" alt="Divider" width="700" height="12">
 
 $\color{E9CD63}\large{\texttt{(>ᴗ−)☆}}$ <br>
 $\color{E9CD63}\large{\texttt{this is only for ponytown!!!}}$ <br>
 
-<img src="https://i.imgur.com/fm5v9TO.png" alt="Divider" width="900" height="12">
-<img src="https://i.imgur.com/C1a869T.png" alt="Footer" width="1000">
+<img src="https://i.imgur.com/fm5v9TO.png" alt="Divider" width="700" height="12">
+<img src="https://i.imgur.com/C1a869T.png" alt="Footer" width="800">
 
 [![credit](https://i.imgur.com/tfK3dgY.png)](https://www.tumblr.com/coco-coquette/769451441862688768/beige-templates)
 [![credit](https://i.imgur.com/tfK3dgY.png)](https://www.tumblr.com/rori-is-writing/790067797212430336/dashed-dividers)
