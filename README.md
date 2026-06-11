@@ -9,7 +9,7 @@
 <div align="center">
 <img src="https://i.imgur.com/QoRsbtu.png" alt="Welcome" width="350"><br>
 </div>
-<br><br>
+<br>
 <table>
   <tr>
     <th>
