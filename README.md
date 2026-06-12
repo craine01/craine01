@@ -19,7 +19,7 @@
       $\color{c49927}\normalsize{\texttt{Enjoys listening to new perspective...}}$ <br>
       $\color{c49927}\normalsize{\texttt{I am also interested to learn programming}}$ <br>
       $\color{c49927}\normalsize{\texttt{so I hope we can collaborate based on our niche!}}$ <br>
-      $\color{c49927}\normalsize{\texttt{Stranger, I hope you have a great day, Carpe Diem:>}}$ <br>
+      $\color{c49927}\normalsize{\texttt{Traveler, I hope you have a great day, Carpe Diem:>}}$ <br>
     </th>
   </tr>
 </table>
